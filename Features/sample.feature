@@ -1,7 +1,7 @@
 @test
 Feature: TC-Cogmento web application testing by fetching data from excel and Genrocket
 
-@test1 @Excel @SAM-7
+@test1 @Excel 
 Scenario: TC-01-Cogmento web application testing using excel as data input
 	Given I have logged into "Cogmento" application
 	And I navigate to contact page 
