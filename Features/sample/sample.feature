@@ -9,4 +9,4 @@ Scenario: TC-01-Cogmento web application testing using excel as data input
 	When I click on save button
 	Then I should successfully able to see the contact created
 	And I should be able to delete contact added
-	And I logout from the application
+	And I logout from the applications
